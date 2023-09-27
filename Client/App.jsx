@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
       <h1>
-        Hello, world! It&apos;s Garrett
+        Hello, world! It&apos;s Franky
         <span role="img" aria-label="100 Emoji and face with sunglasses emoji">
           💯😎
         </span>
